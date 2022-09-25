@@ -69,7 +69,7 @@ sudo systemctl restart resolvconf.service
 cat /etc/resolv.conf
 ```
 
-![[Screen Shot 2022-09-25 at 6.00.17 pm.png]]
+![Screen Shot 2022-09-25 at 6 00 17 pm](https://user-images.githubusercontent.com/6763366/192138917-e026403e-b977-4bff-94de-019c19a98c5d.png)
 
 
 ---
