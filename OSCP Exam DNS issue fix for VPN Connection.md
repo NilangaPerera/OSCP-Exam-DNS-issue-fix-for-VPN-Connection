@@ -1,5 +1,5 @@
 # OSCP Exam DNS issue fix for VPN Connection
-It is required to add the Google DNS information into the `resolvconf` file in Kali Linux VM, for the OSCP exam to be successfully connected to the exam lab environment. The below steps will show you how to configure this with **resolvconf** tool. 
+It is required to add the Google DNS information into the `/etc/resolv.conf` file in Kali Linux VM, for the OSCP exam to be successfully connected to the exam lab environment. The below steps will show you how to configure this with **resolvconf** tool. 
 
 This will reduce huge overhead during the exam and may avoid the VPN and Network issues. Make sure to test this prior to the exam and ensure your network is working as intended. 
 
